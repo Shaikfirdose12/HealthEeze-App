@@ -16,19 +16,19 @@ HealthEeze is a full-stack Android healthcare management application designed to
 
 ## 🧠 System Architecture
 The application follows a multi-layered architecture:
-- **Frontend:** Android (Kotlin, XML)
-- **Backend:** Firebase (Realtime Database, Authentication)
-- **Integration:** APIs for notifications, email, and data sync
+- *Frontend:* Android (Kotlin, XML)
+- *Backend:* Firebase (Realtime Database, Authentication)
+- *Integration:* APIs for notifications, email, and data sync
 
 ## 🛠 Tech Stack
-- **Language:** Kotlin  
-- **IDE:** Android Studio  
-- **Database:** Firebase Realtime Database  
-- **Authentication:** Firebase Auth  
-- **Notifications:** Firebase Cloud Messaging (FCM)  
-- **Storage:** Firebase Storage  
-- **UI Design:** XML  
-- **Other Tools:** Glide, Alarm Manager, Broadcast Receiver  
+- *Language:* Kotlin  
+- *IDE:* Android Studio  
+- *Database:* Firebase Realtime Database  
+- *Authentication:* Firebase Auth  
+- *Notifications:* Firebase Cloud Messaging (FCM)  
+- *Storage:* Firebase Storage  
+- *UI Design:* XML  
+- *Other Tools:* Glide, Alarm Manager, Broadcast Receiver  
 
 ## 📊 Key Functional Modules
 - User Authentication Module  
@@ -50,12 +50,19 @@ The application follows a multi-layered architecture:
 - Health insurance integration  
 
 ## 📷 Screenshots
-(Add screenshots here)
+![Home](screenshots/home.png)
+![Features](screenshots/feature.png)
 
 ## 📂 Documentation
-Detailed project documentation is available in the `/docs` folder.
+Detailed project documentation is available in the /docs folder.
+
+## 👨‍💻 My Contribution
+- Developed Android application features using Kotlin  
+- Integrated Firebase Authentication and Realtime Database  
+- Implemented medication reminder system using Alarm Manager  
+- Designed UI and worked on module integration  
 
 ## 👩‍💻 Author
-**Shaik Firdose**  
+*Shaik Firdose*  
 🔗 LinkedIn: https://www.linkedin.com/in/firdose-shaik-97273b258  
-🔗 GitHub: https://github.com/YOUR-USERNAME
+🔗 GitHub: https://github.com/Shaikfirdose12
