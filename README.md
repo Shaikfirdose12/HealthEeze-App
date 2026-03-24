@@ -69,25 +69,8 @@ The application follows a multi-layered architecture:
 ## 📄 Documentation
 
 <p align="center">
-  <a href="## 📄 Documentation
-
-<p align="center">
-  <a href="https://github.com/yourname/yourrepo/blob/main/docs/project_report.pdf">
-    <img src="https://img.icons8.com/color/96/pdf.png" width="80"/>
-  </a>
+  <a href="https://github.com/Shaikfirdose12/HealthEeze-App/blob/main/healtheeze.pdf"><b>📥 Open Project Documentation</b></a>
 </p>
-
-<p align="center">
-  Click the icon to view the project documentation.
-</p>
-    <img src="https://img.icons8.com/color/96/pdf.png" width="80"/>
-  </a>
-</p>
-
-<p align="center">
-  Click the icon to view the project documentation.
-</p>
-
 
 ## 👨‍💻 My Contribution
 - Developed Android application features using Kotlin  
