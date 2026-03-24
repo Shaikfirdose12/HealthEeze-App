@@ -69,13 +69,23 @@ The application follows a multi-layered architecture:
 ## 📄 Documentation
 
 <p align="center">
-  <a href="docs/project_report.pdf">
+  <a href="## 📄 Documentation
+
+<p align="center">
+  <a href="https://github.com/yourname/yourrepo/blob/main/docs/project_report.pdf">
     <img src="https://img.icons8.com/color/96/pdf.png" width="80"/>
   </a>
 </p>
 
 <p align="center">
-  Detailed project documentation is available in the <b>/docs</b> folder.
+  Click the icon to view the project documentation.
+</p>
+    <img src="https://img.icons8.com/color/96/pdf.png" width="80"/>
+  </a>
+</p>
+
+<p align="center">
+  Click the icon to view the project documentation.
 </p>
 
 
