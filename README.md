@@ -70,13 +70,7 @@ The application follows a multi-layered architecture:
 
 <p align="center">
   <a href="docs/project_report.pdf">
-    <img src="https://img.icons8.com/color/96/pdf.png" width="70"/>
-  </a>
-  <a href="docs/presentation.pptx">
-    <img src="https://img.icons8.com/color/96/powerpoint.png" width="70"/>
-  </a>
-  <a href="docs/requirements.docx">
-    <img src="https://img.icons8.com/color/96/word.png" width="70"/>
+    <img src="https://img.icons8.com/color/96/pdf.png" width="80"/>
   </a>
 </p>
 
