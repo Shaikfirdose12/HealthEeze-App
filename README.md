@@ -66,8 +66,24 @@ The application follows a multi-layered architecture:
   <img src="screenshotsreminder.png.jpeg" width="250"/>
 </p>
 
-## 📂 Documentation
-Detailed project documentation is available in the /docs folder.
+## 📄 Documentation
+
+<p align="center">
+  <a href="docs/project_report.pdf">
+    <img src="https://img.icons8.com/color/96/pdf.png" width="70"/>
+  </a>
+  <a href="docs/presentation.pptx">
+    <img src="https://img.icons8.com/color/96/powerpoint.png" width="70"/>
+  </a>
+  <a href="docs/requirements.docx">
+    <img src="https://img.icons8.com/color/96/word.png" width="70"/>
+  </a>
+</p>
+
+<p align="center">
+  Detailed project documentation is available in the <b>/docs</b> folder.
+</p>
+
 
 ## 👨‍💻 My Contribution
 - Developed Android application features using Kotlin  
