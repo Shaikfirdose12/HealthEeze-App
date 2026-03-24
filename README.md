@@ -50,8 +50,21 @@ The application follows a multi-layered architecture:
 - Health insurance integration  
 
 ## 📷 Screenshots
-![Home](screenshots/home.png)
-![Features](screenshots/feature.png)
+
+<p align="center">
+  <img src="screenshotshome.png.jpeg" width="250"/>
+  <img src="screenshotshome2.png.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshotsappointment.png.jpeg" width="250"/>
+  <img src="screenshotsemergency.png.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshotshealthtips.png.jpeg" width="250"/>
+  <img src="screenshotsreminder.png.jpeg" width="250"/>
+</p>
 
 ## 📂 Documentation
 Detailed project documentation is available in the /docs folder.
